@@ -1,0 +1,5 @@
+data/raw/
+runs/
+.quarto/
+__pycache__/
+.Rhistory
